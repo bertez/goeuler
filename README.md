@@ -2,9 +2,9 @@ I'm learning Go just for fun.
 
 The results, for reference:
 
-1. 233168
-2. 4613732
-3. 6857
+1. 233168 :white_check_mark:
+2. 4613732 :white_check_mark:
+3. 6857 :white_check_mark:
 4. 906609
 5. 232792560
 6. 25164150
